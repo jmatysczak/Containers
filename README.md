@@ -12,3 +12,6 @@
 An Alpine based container whose sole purpose is to provide git. It isolates the user's
 public/private key from the host system and other containers that might contain untrusted
 third party code.
+
+#### alpine_gradle_jdk_17
+An Alpine based container whose sole purpose is to provide JDK 17 and Gradle.
