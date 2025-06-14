@@ -15,3 +15,6 @@ third party code.
 
 #### alpine_gradle_jdk_17
 An Alpine based container whose sole purpose is to provide JDK 17 and Gradle.
+
+#### alpine_gradle_jdk_24
+An Alpine based container whose sole purpose is to provide JDK 24 and Gradle.
